@@ -1,1 +1,1 @@
-# GhatGLM2-6B
+# ChatGLM2-6B

@@ -1,5 +1,3 @@
-![](./assets/hexaflake-toca.png)
-
 # ChatGLM2-AIGPU
 
 本项目实现CompassC10部署语言大模型[ChatGLM2-6B](https://huggingface.co/THUDM/chatglm2-6b)。 通过TVM编译器将模型转换成ngf文件，并将其部署到Compass C10的环境。
